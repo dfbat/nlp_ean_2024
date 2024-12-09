@@ -1,0 +1,13 @@
+## Sacamos los datos de tensorflow
+.git
+events.out.*
+checkpoint
+model.ckpt-0.data-00000-of-00001
+model.ckpt-0.index
+model.ckpt-0.meta
+
+*events.ou*
+
+*Noticias_preprocesadas.csv
+*.model
+*.npy
